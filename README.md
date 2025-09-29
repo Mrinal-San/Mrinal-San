@@ -2,7 +2,7 @@
 
 # 💫 Hey, I'm MRINAL 🫠
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Gen+Z+Vibe+Coder+%F0%9F%92%BB;ML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=600&size=28&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Gen+Z+Vibe+Coder;ML+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 
 ### ✨ Always curious. Always building. Always vibing.
 
