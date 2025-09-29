@@ -50,26 +50,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Mrinal-San&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" /></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Mrinal-San&theme=tokyonight&hide_border=true" /></td>
-  </tr>
-</table>
-
-<p>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinal-San&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
-</div>
-
----
 
 ## 🎯 Current Vibe
 
